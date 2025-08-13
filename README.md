@@ -6,5 +6,4 @@ position = min(150,
     × vol_boost 
     + Bollinger_enhancement 
     + phase_aggression 
-    + competition_response
-)
+    
