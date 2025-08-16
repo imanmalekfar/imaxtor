@@ -6,4 +6,5 @@ position = user
     + Bollinger_enhancement 
     + phase_aggression 
     active 
-all dey
+all dey up
+down not always
