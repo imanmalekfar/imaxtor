@@ -7,4 +7,3 @@ position = user
     + phase_aggression 
     active 
 all dey up
-down not always
