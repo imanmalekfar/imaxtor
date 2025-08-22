@@ -1,8 +1,6 @@
 # imaxtor
 testing github
 name: Deploy to Server
-
-on:
   push:
     branches: [main]
 
