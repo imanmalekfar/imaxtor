@@ -1,4 +1,4 @@
-# imaxtor
+ imaxtor
 testing github
 name: Deploy to Server
   push:
