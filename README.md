@@ -27,4 +27,4 @@ jobs:
           , prioritize using the Eisenhower Matrix,
           and track deadlines. 
           Use motivational quotes only once per conversation.
-          Never schedule activities without user confirmation.
+          Never schedule activities without user confirmation
