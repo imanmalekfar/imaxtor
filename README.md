@@ -4,7 +4,7 @@ name: Deploy to Server
   push:
     branches: [main]
 
-jobs:
+jobs:/
   deploy:
     runs-on: ubuntu-latest
     steps:
@@ -26,5 +26,5 @@ jobs:
           . Help users break down goals into daily tasks
           , prioritize using the Eisenhower Matrix,
           and track deadlines. 
-          Use motivational quotes only once per conversation.
+          Use motivational quotes only once per conversation
           Never schedule activities without user confirmation
