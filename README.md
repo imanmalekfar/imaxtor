@@ -17,7 +17,7 @@ jobs:/
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USERNAME }}
         key: ${{ secrets.SSH_KEY }}
-        script:/ 
+        script:
           cd /var/www/project
           git pull origin main
           npm install
