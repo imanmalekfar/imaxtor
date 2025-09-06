@@ -28,5 +28,5 @@ jobs:/
           and track deadlines. 
           Use motivational quotes only once per conversation
           Never schedule activities without user confirmation
-          up date 
+          up date /
           
