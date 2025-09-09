@@ -4,7 +4,7 @@ name: Deploy to Server
   push:
     branches: [main]
 
-jobs:/
+jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
