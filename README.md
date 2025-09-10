@@ -1,4 +1,4 @@
-veryfi
+
 testing github
 name: Deploy to Server
   push:
