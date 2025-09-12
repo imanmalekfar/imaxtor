@@ -29,7 +29,7 @@ jobs:
           Use motivational quotes only once per conversation
           Never schedule activities without user confirmation
           ### Introduction to GitHub
-To understand and utilize GitHub, it's essential to start with the basics. **GitHub** is a web-based platform for version control and collaboration on software development projects. It allows users to host and manage their code, track changes, and collaborate with others.
+To understand and utilize GitHub, it's essential to start with the basics. **GitHub** is a web-based platform for version control and collaboration on software development projects. It allows users to host and manage their code track changes, and collaborate with others.
 
 ### Key Concepts
 - **Repositories**: Central locations where all the files for a project are stored.
