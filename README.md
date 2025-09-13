@@ -39,7 +39,6 @@ To understand and utilize GitHub, it's essential to start with the basics. **Git
 
 ### Learning Resources
 For a beginner-friendly introduction to GitHub, the following resources are recommended:
-1. **YouTube Tutorials**: Videos that cover the essential steps for using GitHub, including creating repositories, managing branches, making commits, and merging changes.
 2. **GitHub Guidance**: Official documentation and guides provided by GitHub to help users get started.
 3. **Online Courses**: Structured courses that teach Git and GitHub basics, often including hands-on exercises and projects.
 
