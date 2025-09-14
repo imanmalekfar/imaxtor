@@ -3,8 +3,6 @@ testing github
 name: Deploy to Server
   push:
     branches: [main]
-
-jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
