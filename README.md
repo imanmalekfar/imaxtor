@@ -30,10 +30,10 @@ name: Deploy to Server
 To understand and utilize GitHub, it's essential to start with the basics. **GitHub** is a web-based platform for version control and collaboration on software development projects. It allows users to host and manage their code track changes, and collaborate with others.
 
 ### Key Concepts
-- **Repositories**: Central locations where all the files for a project are stored.
-- **Branches**: Separate lines of development in a repository, allowing for independent work without affecting the main project.
-- **Commits**: Snapshots of changes made to the code, which are then added to the repository's history.
-- **Merging**: The process of integrating changes from one branch into another.
+- Repositories: Central locations where all the files for a project are stored.
+- Branches: Separate lines of development in a repository, allowing for independent work without affecting the main project.
+- Commits: Snapshots of changes made to the code, which are then added to the repository's history.
+- Merging: The process of integrating changes from one branch into another.
 
 ### Learning Resources
 For a beginner-friendly introduction to GitHub, the following resources are recommended:
