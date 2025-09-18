@@ -6,7 +6,7 @@ name: Deploy to Server
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
+    name: Checkout code
       uses: actions/checkout@v3
 
     - name: Deploy to Production
