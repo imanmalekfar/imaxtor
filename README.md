@@ -9,7 +9,7 @@ name: Deploy to Server
     name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Deploy to Production
+     name: Deploy to Production
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.SSH_HOST }}
