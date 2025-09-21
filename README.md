@@ -2,7 +2,7 @@
 testing github
 name: Deploy to Server
   push:
-    branches: [main]
+    /branches: [main]
   deploy:
     runs-on: ubuntu-latest
     steps:
