@@ -2,7 +2,7 @@
 testing github
 name: Deploy to Server
   push:
-    /branches: [main]
+    branches: [main]
   deploy:
     runs-on: ubuntu-latest
     steps:
@@ -11,7 +11,7 @@ name: Deploy to Server
 
      name: Deploy to Production
       uses: appleboy/ssh-action@master
-      with:
+      with:/
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USERNAME }}
         key: ${{ secrets.SSH_KEY }}
