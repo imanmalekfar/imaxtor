@@ -5,7 +5,7 @@ name: Deploy to Server
     branches: [main]
   deploy:/
     runs-on: ubuntu-latest
-    steps:/
+    steps://
     name: Checkout code
       uses: actions/checkout@v3
 
@@ -33,7 +33,7 @@ To understand and utilize GitHub, it's essential to start with the basics. **Git
 - Repositories: Central locations where all the files for a project are stored.
 - Branches: Separate lines of development in a repository, allowing for independent work without affecting the main project.
 - Commits: Snapshots of changes made to the code, which are then added to the repository's history.
-- Merging: The process of integrating changes from one branch into another.
+-
 
 ### Learning Resources
 For a beginner-friendly introduction to GitHub, the following resources are recommended:
