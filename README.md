@@ -42,8 +42,8 @@ For a beginner-friendly introduction to GitHub, the following resources are reco
 
 # Tips for Beginners
 - **Start with a Project**: Find a project you're interested in and try to contribute to it This hands-on experience can help you learn GitHub more effectively.
-- **Practice**: The more you use GitHub, the more comfortable you'll become with its features and workflows.
-- **Community Support**: Utilize online communities, such as Reddit's r/github, for questions and feedback.
+Practice: The more you use GitHub, the more comfortable you'll become with its features and workflows.
+Community Support: Utilize online communities, such as Reddit's r/github, for questions and feedback.
 - **RAMP**: An open-source software suite for stochastic simulation, which can be found on GitHub.
 - **Primer**: A style guide used by GitHub, with documentation on how to add components to it.
 
