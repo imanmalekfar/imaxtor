@@ -1,9 +1,9 @@
 
 testing github
 name: Deploy to Server
-  push:
+  push://
     branches: [main]
-  deploy:
+  deploy://
     runs-on: ubuntu-latest
     steps:
     name: Checkout code
