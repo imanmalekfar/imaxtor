@@ -1,11 +1,11 @@
 
 testing github
 name: Deploy to Server
-  push://
+  push:
     branches: [main]
   deploy:
     runs-on: ubuntu-latest
-    steps://
+    steps:
     name: Checkout code
       uses: actions/checkout@v3
 
@@ -37,8 +37,8 @@ To understand and utilize GitHub, it's essential to start with the basics. **Git
 
 ### Learning Resources
 For a beginner-friendly introduction to GitHub, the following resources are recommended:
-2. **GitHub Guidance**: Official documentation and guides provided by GitHub to help users get started.
-3. **Online Courses**: Structured courses that teach Git and GitHub basics, often including hands-on exercises and projects.
+2.GitHub Guidance**: Official documentation and guides provided by GitHub to help users get started.
+3.Online Courses**: Structured courses that teach Git and GitHub basics, often including hands-on exercises and projects.
 
 # Tips for Beginners
 - **Start with a Project**: Find a project you're interested in and try to contribute to it This hands-on experience can help you learn GitHub more effectively.
