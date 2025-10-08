@@ -1,11 +1,11 @@
 
 testing github
 name: Deploy to Server
-  push:
+  push://
     branches: [main]
-  deploy:
+  deploy://
     runs-on: ubuntu-latest
-    steps:
+    steps://
     name: Checkout code
       uses: actions/checkout@v3
 
@@ -45,7 +45,5 @@ For a beginner-friendly introduction to GitHub, the following resources are reco
 Practice: The more you use GitHub, the more comfortable you'll become with its features and workflows.
 Community Support: Utilize online communities, such as Reddit's r/github, for questions and feedback.
 - **RAMP**: An open-source software suite for stochastic simulation, which can be found on GitHub.
-- **Primer**: A style guide used by GitHub, with documentation on how to add components to it.
-
-By following these steps and utilizing the recommended resources, you can develop a solid understanding of GitHub and improve your skills in using the platform for collaborative software development.  
+- **Primer**: A style guide used by GitHub, with documentation on how to add component
           
