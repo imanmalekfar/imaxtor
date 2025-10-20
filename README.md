@@ -31,7 +31,6 @@ To understand and utilize GitHub, it's essential to start with the basics. **Git
 
 ### Key Concepts
 - Repositories: Central locations where all the files for a project are stored.
-- Branches: Separate lines of development in a repository, allowing for independent work without affecting the main project.
   
 
 
