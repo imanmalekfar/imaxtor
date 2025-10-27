@@ -27,7 +27,7 @@ name: Deploy to Server
           Use motivational quotes only once per conversation
           Never schedule activities without user confirmation
           ### Introduction to GitHub
-To understand and utilize GitHub its essential to start with the basics. **GitHub** is a web-based platform for version control and collaboration on software development projects. 
+To understand and utilize GitHub its essential to start with the basics. **GitHub** is a web-based platform for version control 
 
 
 
