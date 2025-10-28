@@ -14,7 +14,7 @@ name: Deploy to Server
       with:
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USERNAME }}
-        key: ${{ secrets.SSH_KEY }}
+        key: ${{ secrets.SSH_KEY }
         script:
           cd /var/www/project
           git pull origin main
@@ -27,7 +27,7 @@ name: Deploy to Server
           Use motivational quotes only once per conversation
           Never schedule activities without user confirmation
           ### Introduction to GitHub
-To understand and utilize GitHub its essential to start with the basics. **GitHub** is a web-based platform for version control 
+To understand and utilize GitHub its essential to start with the basics 
 
 
 
