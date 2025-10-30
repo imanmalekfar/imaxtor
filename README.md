@@ -26,8 +26,6 @@ name: Deploy to Server
           and track deadlines. 
           Use motivational quotes only once per conversation
           Never schedule activities without user confirmation
-          ### Introduction to GitHub
-To understand and utilize GitHub its essential to start with the basics 
-
+          ### Introduction to GitHu
 
 
