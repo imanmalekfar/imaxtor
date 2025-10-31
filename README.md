@@ -5,7 +5,7 @@ name: Deploy to Server
     branches: [main]
   deploy:
     runs-on: ubuntu-latest
-    steps://
+    steps:/
     name: Checkout code
       uses: actions/checkout@v3
 
@@ -26,6 +26,6 @@ name: Deploy to Server
           and track deadlines. 
           Use motivational quotes only once per conversation
           Never schedule activities without user confirmation
-          ### Introduction to GitHu
+          
 
 
