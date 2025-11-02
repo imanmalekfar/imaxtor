@@ -1,11 +1,11 @@
 
 testing github
 name: Deploy to Server
-  push://
+  push:/
     branches: [main]
   deploy:
     runs-on: ubuntu-latest
-    steps://
+    steps:/
     name: Checkout code
       uses: actions/checkout@v3
 
@@ -25,7 +25,7 @@ name: Deploy to Server
           , prioritize using the Eisenhower Matrix,
           and track deadlines. 
           Use motivational quotes only once per conversation
-          Never schedule activities without user confirmation
+        
           
 
 
