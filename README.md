@@ -1,7 +1,7 @@
 
 testing github
 name: Deploy to Server
-  push://
+  push:/
     branches: [main]
   deploy://
     runs-on: ubuntu-latest
