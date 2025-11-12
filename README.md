@@ -1,11 +1,10 @@
 
 testing github
 name: Deploy to Server
-  push://\
-    branches: [main]
-  deploy://\
-    runs-on: ubuntu\-latest
-    steps://\
+  push:
+    branches
+    runs-on: untu\-latest
+    steps:
     name: Checkout code
       uses: actions/checkout@v3
 
