@@ -1,12 +1,12 @@
 /
 testing github
 name: Deploy to Server
-  push://
-    branches
+  push:/
+    branches/
     runs-on: untu-latest
-    steps://
-    name: Checkout code
-      uses: actions/checkout@v3
+    steps:/
+    name: Checkout code/
+      uses: actions/checkout@v3/
 
      name: Deploy to Production
       uses: appleboy/ssh-action@master
