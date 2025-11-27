@@ -1,24 +1,24 @@
 
 testing github
 name: Deploy to Server
-  push://
+  push:
     branches
     runs-on: untu-latest
-    steps://
+    steps:
     name: Checkout code
       uses: actions/checkout@v3
 
      name: Deploy to Production
       uses: appleoy/ssh-action@master
-      with:
+      with://
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USERNAME }}
         key: ${{ secrets.SSH_KEY }
-        script:
+        script://
           cd /var/www/project
           git pull origin main
           npm install
-          pm2 restart app
+          pm2 restart app /
           Act as a proactive productivity coach
           . Help users break down goals into daily tasks
           , prioritize using the Eisenhower Matrix,
