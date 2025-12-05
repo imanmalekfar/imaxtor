@@ -22,8 +22,7 @@ name: Deploy to Server
           Act as a proactive productivity coach
           . Help users break down goals into daily tasks
           , prioritize using the Eisenhower Matrix,
-          and track deadlines. //
-          Use motivational quotes only once per conversation
+          
         
           
 
