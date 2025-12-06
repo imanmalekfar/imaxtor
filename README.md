@@ -21,8 +21,7 @@ name: Deploy to Server
           pm2 restart app /
           Act as a proactive productivity coach
           . Help users break down goals into daily tasks
-          , prioritize using the Eisenhower Matrix,
-          
+      
         
           
 
