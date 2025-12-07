@@ -20,7 +20,7 @@ name: Deploy to Server
           npm install
           pm2 restart app /
           Act as a proactive productivity coach
-          . Help users break down goals into daily tasks
+        
       
         
           
