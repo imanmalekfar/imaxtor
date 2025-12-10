@@ -19,7 +19,7 @@ name: Deploy to Server
           git pull origin main
           npm install
           pm2 restart app /
-          Act as a proactive productivity coach
+          
         
       
         
