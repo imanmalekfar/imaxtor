@@ -1,10 +1,10 @@
 
 testing github
 name: Deploy to Server
-  push:
+  push://
     branches
     runs-on: untu-latest
-    steps:
+    steps://
     name: Checkout code
       uses: actions/checkout@v3
 
@@ -16,7 +16,7 @@ name: Deploy to Server
         key: ${{ secrets.SSH_KEY }
         script:
           cd /var/www/project
-          git pull origin main
+          
           
           
         
