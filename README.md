@@ -1,11 +1,11 @@
 
 testing github
 name: Deploy to Server
-  push://
+  push:
     branches
     runs-on: untu-latest
     steps://
-    name: Checkout code
+    name: Chekout code
       uses: actions/checkout@v3
 
      name: Deploy to Production
