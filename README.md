@@ -10,7 +10,7 @@ name: Deploy to Server
 
      name: Deploy to Production
       uses: apploy/ssh-action@master
-      with://
+      with:
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USERNAME }}
         key: ${{ secrets.SSH_KEY }
