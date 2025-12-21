@@ -15,7 +15,8 @@ name: Deploy to Server
         username: ${{ secrets.SSH_USERNAME }}
         key: ${{ secrets.SSH_KEY }
         script:
-          cd /var/www/project
+          cd /var/www
+          
           
           
           
