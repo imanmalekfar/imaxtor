@@ -14,7 +14,7 @@ name: Deploy to Server
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USERNAME }}
         key: ${{ secrets.SSH_KEY }
-        script://
+        script:
           cd /var/www
           The YAML snippet you provided has several syntax errors. Here's the corrected version:
 
@@ -46,9 +46,7 @@ Add these secrets to your repository:
    SSH_USERNAME (add to with: section)
    SSH_KEY (your SSH private key)
 
-You'll need to add the SSH username and key to the action configuration for it to work properly. The SSH action requires these additional parameters.
-          
-          
+You'll need to add the SSH username and key to the action configuration for it to work properly
           
         
       
