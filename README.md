@@ -46,7 +46,6 @@ Add these secrets to your repository:
    SSH_USERNAME (add to with: section)
    SSH_KEY (your SSH private key)
 
-You'll need to add the SSH username and key to the action configuration for it to work properly
           
         
       
