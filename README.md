@@ -43,8 +43,7 @@ To use this workflow:
 Save it as .github/workflows/deploy.yml
 Add these secrets to your repository:
    SSH_HOST (your server IP/hostname)
-   SSH_USERNAME (add to with: section)
-   SSH_KEY (your SSH private key)
+  
 
           
         
