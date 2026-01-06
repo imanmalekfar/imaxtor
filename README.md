@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v3
 
       name: Deploy to Production
-        uses: appleboy/ssh-action@master
+        
       
         
       
