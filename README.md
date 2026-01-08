@@ -22,8 +22,7 @@ jobs:
   deploy:
     runs-on: 
       name: Checkout code
-        uses: actions/checkout@v3
-        
+    
       
         
       
