@@ -4,7 +4,7 @@ name: Deploy to Server
   push//
     branches
     runs-on: untu-latest
-    steps://
+    steps:/
     name: Chekout code
       uses: actions/checkout@v3
 
