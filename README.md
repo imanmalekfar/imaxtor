@@ -51,7 +51,7 @@ jobs:
           # npm install --production
           # npm run build
           # docker-compose up -d --build
-          # systemctl restart your-service
+         service
 
         
       
