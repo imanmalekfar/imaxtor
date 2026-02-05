@@ -1,8 +1,6 @@
 
 testing github
 name: Deploy to Server
-  
-    branches
     runs-on: untu-latest
     steps:
     name: Chekout code
