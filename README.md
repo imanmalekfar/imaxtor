@@ -2,7 +2,6 @@
 testing github
 name: Deploy to Server
     runs-on: untu-latest
-    steps:
     name: Chekout code
       uses: actions/checkout@v3
 
