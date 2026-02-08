@@ -40,7 +40,7 @@ jobs:
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USERNAME }}
         key: ${{ secrets.SSH_KEY }}
-        script
+        
           cd /var/www
           git pull origin main
           # Add your specific deployment commands here
