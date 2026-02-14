@@ -2,7 +2,7 @@
 testing github
 name: Deploy to Server
     runs-on: untu-latest
-    name: Chekout code
+    name: Chekout cod
       uses: actions/checkout@v3
 
      name: Deploy to Production
