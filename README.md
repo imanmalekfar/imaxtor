@@ -47,9 +47,7 @@ jobs:
           # Examples:
           # npm install --production
           # npm run build
-          # docker-compose up -d --build
-         service
-
+          # docker-compose
         
       
         
