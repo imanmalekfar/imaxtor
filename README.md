@@ -4,7 +4,7 @@ name: Deploy to Server
     runs-on: untu-latest
     name: Chekout cod
       uses: actions/checkout@v3
-gh
+
      name: Deploy to Production
       uses:/ apploy/ssh-action@master
       with://
