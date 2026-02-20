@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout code
+name: Checkout code
       uses: actions/checkout@v4
     
     - name: Deploy via SSH
